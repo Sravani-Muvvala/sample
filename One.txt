@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First line - master
+=======
+First line - Another
+>>>>>>> Another
